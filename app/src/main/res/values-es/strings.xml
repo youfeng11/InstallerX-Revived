@@ -991,4 +991,9 @@
     <string name="exception_uninstall_failed_used_shared_library">Desinstalación bloqueada porque la aplicación se usa como una biblioteca compartida</string>
     <string name="exception_uninstall_failed_app_pinned">Desinstalación bloqueada porque la aplicación está anclada</string>
     <string name="installer_result_pending">Ya hay otra instalación en curso. Espera a que termine y vuelve a intentarlo.</string>
+    <string name="config_auto_approve_session">Aprobar automáticamente las instalaciones de la sesión</string>
+    <string name="config_auto_approve_session_desc">Aprobar silenciosamente las solicitudes de instalación de sesión de las aplicaciones objetivo</string>
+    <string name="config_auto_approve_session_disabled_desc">No disponible cuando la política de respeto a la plataforma está habilitada</string>
+    <string name="config_auto_approve_session_warning">Al activar esta opción, las aplicaciones dentro del ámbito de este perfil podrán instalar aplicaciones en silencio sin autorización explícita del usuario. Actívalo con precaución.</string>
+    <string name="install_confirm_approved_toast">Aprobada la solicitud de instalación de %1$s</string>
 </resources>
